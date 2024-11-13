@@ -1,0 +1,11 @@
+
+.getInfo{
+
+    width: 30%;
+  
+  }
+  .getInfo>div{
+  
+    text-align: left;
+    font-size: 20px;
+  }
